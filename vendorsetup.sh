@@ -1,1 +1,1 @@
-add_lunch_combo cm_hercules-eng
+add_lunch_combo cd_hercules-eng
